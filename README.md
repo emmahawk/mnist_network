@@ -1,1 +1,1 @@
-# mnist_network
+# MNIST Network
